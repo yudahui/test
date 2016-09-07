@@ -1,0 +1,168 @@
+70-01-01 12:00:031472439693
+Array
+(
+    [state] => 1
+    [content] => http://localhost/fuyou888ic/application/libraries/weixinapi/qrcode.js@var url = 'weixin://wxpay/bizpayurl?pr=yhLe6uP';var qr = qrcode(10, 'M');qr.addData(url);qr.make();var wording=document.createElement('p');var code=document.createElement('div');code.innerHTML = qr.createImgTag();var element=document.getElementById('huix-img');element.appendChild(wording);element.appendChild(code);
+)
+
+
+70-01-01 12:00:031472439924
+Array
+(
+    [state] => 1
+    [content] => http://localhost/fuyou888ic/application/libraries/weixinapi/qrcode.js@var url = 'weixin://wxpay/bizpayurl?pr=PdsGD0x';var qr = qrcode(10, 'M');qr.addData(url);qr.make();var wording=document.createElement('p');var code=document.createElement('div');code.innerHTML = qr.createImgTag();var element=document.getElementById('huix-img');element.appendChild(wording);element.appendChild(code);
+)
+
+
+70-01-01 12:00:031472441501
+Array
+(
+    [state] => 1
+    [content] => http://localhost/fuyou888ic/application/libraries/weixinapi/qrcode.js@var url = 'weixin://wxpay/bizpayurl?pr=GUOmNZf';var qr = qrcode(10, 'M');qr.addData(url);qr.make();var wording=document.createElement('p');var code=document.createElement('div');code.innerHTML = qr.createImgTag();var element=document.getElementById('huix-img');element.appendChild(wording);element.appendChild(code);
+)
+
+
+70-01-01 12:00:031472441558
+Array
+(
+    [state] => 1
+    [content] => http://localhost/fuyou888ic/application/libraries/weixinapi/qrcode.js@var url = 'weixin://wxpay/bizpayurl?pr=UUKoBsG';var qr = qrcode(10, 'M');qr.addData(url);qr.make();var wording=document.createElement('p');var code=document.createElement('div');code.innerHTML = qr.createImgTag();var element=document.getElementById('huix-img');element.appendChild(wording);element.appendChild(code);
+)
+
+
+70-01-01 12:00:031472441591
+Array
+(
+    [state] => 1
+    [content] => http://localhost/fuyou888ic/application/libraries/weixinapi/qrcode.js@var url = 'weixin://wxpay/bizpayurl?pr=F1WeqUG';var qr = qrcode(10, 'M');qr.addData(url);qr.make();var wording=document.createElement('p');var code=document.createElement('div');code.innerHTML = qr.createImgTag();var element=document.getElementById('huix-img');element.appendChild(wording);element.appendChild(code);
+)
+
+
+70-01-01 12:00:031472441655
+Array
+(
+    [state] => 1
+    [content] => http://localhost/fuyou888ic/application/libraries/weixinapi/qrcode.js@var url = 'weixin://wxpay/bizpayurl?pr=Rb8VhS5';var qr = qrcode(10, 'M');qr.addData(url);qr.make();var wording=document.createElement('p');var code=document.createElement('div');code.innerHTML = qr.createImgTag();var element=document.getElementById('huix-img');element.appendChild(wording);element.appendChild(code);
+)
+
+
+70-01-01 12:00:031472441706
+Array
+(
+    [state] => 1
+    [content] => http://localhost/fuyou888ic/application/libraries/weixinapi/qrcode.js@var url = 'weixin://wxpay/bizpayurl?pr=y2IbARj';var qr = qrcode(10, 'M');qr.addData(url);qr.make();var wording=document.createElement('p');var code=document.createElement('div');code.innerHTML = qr.createImgTag();var element=document.getElementById('huix-img');element.appendChild(wording);element.appendChild(code);
+)
+
+
+70-01-01 12:00:031472441890
+Array
+(
+    [state] => 1
+    [content] => http://localhost/fuyou888ic/application/libraries/weixinapi/qrcode.js@var url = 'weixin://wxpay/bizpayurl?pr=arLU5Ku';var qr = qrcode(10, 'M');qr.addData(url);qr.make();var wording=document.createElement('p');var code=document.createElement('div');code.innerHTML = qr.createImgTag();var element=document.getElementById('huix-img');element.appendChild(wording);element.appendChild(code);
+)
+
+
+70-01-01 12:00:031472441960
+Array
+(
+    [state] => 1
+    [content] => http://localhost/fuyou888ic/application/libraries/weixinapi/qrcode.js@var url = 'weixin://wxpay/bizpayurl?pr=WJabusX';var qr = qrcode(10, 'M');qr.addData(url);qr.make();var wording=document.createElement('p');var code=document.createElement('div');code.innerHTML = qr.createImgTag();var element=document.getElementById('huix-img');element.appendChild(wording);element.appendChild(code);
+)
+
+
+70-01-01 12:00:031472442027
+Array
+(
+    [state] => 1
+    [content] => http://localhost/fuyou888ic/application/libraries/weixinapi/qrcode.js@var url = 'weixin://wxpay/bizpayurl?pr=HjC9b8g';var qr = qrcode(10, 'M');qr.addData(url);qr.make();var wording=document.createElement('p');var code=document.createElement('div');code.innerHTML = qr.createImgTag();var element=document.getElementById('huix-img');element.appendChild(wording);element.appendChild(code);
+)
+
+
+70-01-01 12:00:031472442069
+Array
+(
+    [state] => 1
+    [content] => http://localhost/fuyou888ic/application/libraries/weixinapi/qrcode.js@var url = 'weixin://wxpay/bizpayurl?pr=2cFNxzC';var qr = qrcode(10, 'M');qr.addData(url);qr.make();var wording=document.createElement('p');var code=document.createElement('div');code.innerHTML = qr.createImgTag();var element=document.getElementById('huix-img');element.appendChild(wording);element.appendChild(code);
+)
+
+
+70-01-01 12:00:031472442186
+Array
+(
+    [state] => 1
+    [content] => http://localhost/fuyou888ic/application/libraries/weixinapi/qrcode.js@var url = 'weixin://wxpay/bizpayurl?pr=4W0TqzZ';var qr = qrcode(10, 'M');qr.addData(url);qr.make();var wording=document.createElement('p');var code=document.createElement('div');code.innerHTML = qr.createImgTag();var element=document.getElementById('huix-img');element.appendChild(wording);element.appendChild(code);
+)
+
+
+70-01-01 12:00:031472442221
+Array
+(
+    [state] => 1
+    [content] => http://localhost/fuyou888ic/application/libraries/weixinapi/qrcode.js@var url = 'weixin://wxpay/bizpayurl?pr=EOspgzR';var qr = qrcode(10, 'M');qr.addData(url);qr.make();var wording=document.createElement('p');var code=document.createElement('div');code.innerHTML = qr.createImgTag();var element=document.getElementById('huix-img');element.appendChild(wording);element.appendChild(code);
+)
+
+
+70-01-01 12:00:031472442244
+Array
+(
+    [state] => 1
+    [content] => http://localhost/fuyou888ic/application/libraries/weixinapi/qrcode.js@var url = 'weixin://wxpay/bizpayurl?pr=NibBwlm';var qr = qrcode(10, 'M');qr.addData(url);qr.make();var wording=document.createElement('p');var code=document.createElement('div');code.innerHTML = qr.createImgTag();var element=document.getElementById('huix-img');element.appendChild(wording);element.appendChild(code);
+)
+
+
+70-01-01 12:00:031472442268
+Array
+(
+    [state] => 1
+    [content] => http://localhost/fuyou888ic/application/libraries/weixinapi/qrcode.js@var url = 'weixin://wxpay/bizpayurl?pr=fwvo2UD';var qr = qrcode(10, 'M');qr.addData(url);qr.make();var wording=document.createElement('p');var code=document.createElement('div');code.innerHTML = qr.createImgTag();var element=document.getElementById('huix-img');element.appendChild(wording);element.appendChild(code);
+)
+
+
+70-01-01 12:00:031472442328
+Array
+(
+    [state] => 1
+    [content] => http://localhost/fuyou888ic/application/libraries/weixinapi/qrcode.js@var url = 'weixin://wxpay/bizpayurl?pr=hpZmjjn';var qr = qrcode(10, 'M');qr.addData(url);qr.make();var wording=document.createElement('p');var code=document.createElement('div');code.innerHTML = qr.createImgTag();var element=document.getElementById('huix-img');element.appendChild(wording);element.appendChild(code);
+)
+
+
+70-01-01 12:00:031472442366
+Array
+(
+    [state] => 1
+    [content] => http://localhost/fuyou888ic/application/libraries/weixinapi/qrcode.js@var url = 'weixin://wxpay/bizpayurl?pr=8vaLRvx';var qr = qrcode(10, 'M');qr.addData(url);qr.make();var wording=document.createElement('p');var code=document.createElement('div');code.innerHTML = qr.createImgTag();var element=document.getElementById('huix-img');element.appendChild(wording);element.appendChild(code);
+)
+
+
+70-01-01 12:00:031472442423
+Array
+(
+    [state] => 1
+    [content] => http://localhost/fuyou888ic/application/libraries/weixinapi/qrcode.js@var url = 'weixin://wxpay/bizpayurl?pr=5dthvGm';var qr = qrcode(10, 'M');qr.addData(url);qr.make();var wording=document.createElement('p');var code=document.createElement('div');code.innerHTML = qr.createImgTag();var element=document.getElementById('huix-img');element.appendChild(wording);element.appendChild(code);
+)
+
+
+70-01-01 12:00:031472442484
+Array
+(
+    [state] => 1
+    [content] => http://localhost/fuyou888ic/application/libraries/weixinapi/qrcode.js@var url = 'weixin://wxpay/bizpayurl?pr=91SMKAF';var qr = qrcode(10, 'M');qr.addData(url);qr.make();var wording=document.createElement('p');var code=document.createElement('div');code.innerHTML = qr.createImgTag();var element=document.getElementById('huix-img');element.appendChild(wording);element.appendChild(code);
+)
+
+
+70-01-01 12:00:031472442579
+Array
+(
+    [state] => 0
+    [content] => http://localhost/fuyou888ic/application/libraries/weixinapi/qrcode.js@var url = 'weixin://wxpay/bizpayurl?pr=o8lReVy';var qr = qrcode(10, 'M');qr.addData(url);qr.make();var wording=document.createElement('p');var code=document.createElement('div');code.innerHTML = qr.createImgTag();var element=document.getElementById('huix-img');element.appendChild(wording);element.appendChild(code);
+)
+
+
+70-01-01 12:00:031472442594
+Array
+(
+    [state] => 0
+    [content] => http://localhost/fuyou888ic/application/libraries/weixinapi/qrcode.js@var url = 'weixin://wxpay/bizpayurl?pr=PHF6KmB';var qr = qrcode(10, 'M');qr.addData(url);qr.make();var wording=document.createElement('p');var code=document.createElement('div');code.innerHTML = qr.createImgTag();var element=document.getElementById('huix-img');element.appendChild(wording);element.appendChild(code);
+)
+
+
